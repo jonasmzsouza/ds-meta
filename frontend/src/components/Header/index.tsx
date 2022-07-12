@@ -8,7 +8,7 @@ const Header = () => {
         <img src={logo} alt="DSMeta" />
         <h1>DSMeta</h1>
         <p>
-          Desenvolvido por
+          Desenvolvido por 
           <a href="https://github.com/jonasmzsouza">jonasmzsouza</a>
         </p>
       </div>
